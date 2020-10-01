@@ -1,0 +1,24 @@
+h1{
+    color: blue;
+}
+.head{
+    background-color: rosybrown;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    color: cornflowerblue;
+    
+}
+.games{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+p{
+    color: darkred;
+    text-align: center;
+}
+body{
+    background-color:#808080;
+}
